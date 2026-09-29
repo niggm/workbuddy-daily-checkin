@@ -1,0 +1,13 @@
+# 运行产物，含本地账号相关信息，切勿提交
+wb_checkin.log
+wb_checkin_history.jsonl
+*.log
+
+# 会话文件（若有人复制到仓库）
+*.info
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
